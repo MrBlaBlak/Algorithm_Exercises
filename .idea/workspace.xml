@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1784a99-6529-470c-8457-f221d17106c3" name="Changes" comment="Find Best Station completed">
-      <change afterPath="$PROJECT_DIR$/algorithm/recursion/managerHierarchy/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/recursion/managerHierarchy/managerHierarchy.js" afterDir="false" />
+    <list default="true" id="e1784a99-6529-470c-8457-f221d17106c3" name="Changes" comment="Manager Hierarchy completed">
+      <change afterPath="$PROJECT_DIR$/algorithm/findLargestDifference/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/findLargestDifference/findLargestDifference.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/findBestStation/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/findBestStation.js" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/findBestStation/findBestStation.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726660983053</updated>
-      <workItem from="1726725145738" duration="6028000" />
+      <workItem from="1726725145738" duration="6775000" />
     </task>
     <task id="LOCAL-00001" summary="Find Best Station completed">
       <option name="closed" value="true" />
@@ -74,7 +72,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726726586998</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Manager Hierarchy completed">
+      <option name="closed" value="true" />
+      <created>1726734813995</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726734813995</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,6 +88,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Find Best Station completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Find Best Station completed" />
+    <MESSAGE value="Manager Hierarchy completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Manager Hierarchy completed" />
   </component>
 </project>
