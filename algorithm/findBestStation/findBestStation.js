@@ -1,8 +1,3 @@
-//
-// let power = Math.pow(reach - distanceFromStation, 2)
-// if (distance > reach) {
-//     power = 0
-// }
 
 let array = [[0, 0, 10], [20, 20, 5], [10, 0, 12]]
 

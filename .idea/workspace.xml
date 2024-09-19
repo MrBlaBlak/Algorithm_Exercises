@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1784a99-6529-470c-8457-f221d17106c3" name="Changes" comment="">
+    <list default="true" id="e1784a99-6529-470c-8457-f221d17106c3" name="Changes" comment="Find Best Station completed">
+      <change afterPath="$PROJECT_DIR$/algorithm/recursion/managerHierarchy/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/recursion/managerHierarchy/managerHierarchy.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/findBestStation/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/findBestStation.js" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/findBestStation/findBestStation.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package.json" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -45,6 +50,12 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mrbla\Desktop\git2\interview\algorithm\findBestStation" />
+      <recent name="C:\Users\mrbla\Desktop\git2\interview\algorithm" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -53,11 +64,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726660983053</updated>
-      <workItem from="1726725145738" duration="1090000" />
+      <workItem from="1726725145738" duration="6028000" />
     </task>
+    <task id="LOCAL-00001" summary="Find Best Station completed">
+      <option name="closed" value="true" />
+      <created>1726726586998</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726726586998</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Find Best Station completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Find Best Station completed" />
   </component>
 </project>
