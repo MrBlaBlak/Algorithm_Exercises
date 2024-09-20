@@ -10,4 +10,4 @@ Array: An array of integers.
 
 Array such that `output[i]` is equal to the product of all
 the elements in the array other than itself. 
-If array consist of 2 and less elements return empty array 
+If array consist of 2 or less elements return empty array 

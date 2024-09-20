@@ -1,4 +1,4 @@
-let firstArray = [2, 2, 4, 1];
+let firstArray = [2, 2, 4, 1,5];
 let secondArray = [0, 1, 1, 1];
 let thirdArray = [-2, -2, -3, 2];
 let fourthArray = [1, 0, 1]
@@ -22,29 +22,32 @@ console.log(productExceptSelf(fourthArray)) // [ 0, 1, 0 ]
 // }
 
 //less elegant solution but with O(n) complexity
+// function productExceptSelf(array) {
+//     if (array.length <= 2) return []
+//     let howManyZeros = 0
+//     const product = array.reduce((acc, currentValue) => {
+//         if (currentValue !== 0) {
+//             return acc * currentValue;
+//         } else {
+//             howManyZeros++;
+//             return acc;
+//         }
+//     }, 1)
+//     return array.map(value => {
+//         if (howManyZeros >= 2) {
+//             return 0;
+//         }
+//         if (howManyZeros === 1) {
+//             if (value !== 0) {
+//                 return 0
+//             } else return product
+//         }
+//         if (value !== 0) {
+//             return product / value
+//         } else return product
+//
+//     })
+// }
 function productExceptSelf(array) {
-    if (array.length <= 2) return []
-    let howManyZeros = 0
-    const product = array.reduce((acc, currentValue) => {
-        if (currentValue !== 0) {
-            return acc * currentValue;
-        } else {
-            howManyZeros++;
-            return acc;
-        }
-    }, 1)
-    return array.map(value => {
-        if (howManyZeros >= 2) {
-            return 0;
-        }
-        if (howManyZeros === 1) {
-            if (value !== 0) {
-                return 0
-            } else return product
-        }
-        if (value !== 0) {
-            return product / value
-        } else return product
 
-    })
 }
