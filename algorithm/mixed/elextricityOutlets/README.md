@@ -9,4 +9,4 @@ The input is an array arr where:
 arr[0] is the length k, which represents the range each outlet can cover.
 The rest of the array elements (arr[1], arr[2], ..., arr[n-1]) represent whether a desk can have an outlet (1) or not (0).
 ### Output
-Minimum amount of electricity outlets or if itss not possible to connect all devices then -1
+Minimum amount of electricity outlets or if it's not possible to connect all devices then -1

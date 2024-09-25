@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1784a99-6529-470c-8457-f221d17106c3" name="Changes" comment="ElectricityOutlets completed">
+    <list default="true" id="e1784a99-6529-470c-8457-f221d17106c3" name="Changes" comment="ElectricityOutlets README.md">
       <change afterPath="$PROJECT_DIR$/algorithm/strings/reverseWordsInSentence/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/algorithm/strings/reverseWordsInSentence/reverseWordsInSentence.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/mixed/elextricityOutlets/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/mixed/elextricityOutlets/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +72,8 @@
       <workItem from="1727094860175" duration="3745000" />
       <workItem from="1727125129594" duration="302000" />
       <workItem from="1727167548734" duration="1453000" />
-      <workItem from="1727252354464" duration="9395000" />
+      <workItem from="1727252354464" duration="9536000" />
+      <workItem from="1727266939502" duration="1784000" />
     </task>
     <task id="LOCAL-00001" summary="Find Best Station completed">
       <option name="closed" value="true" />
@@ -137,7 +139,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727262808985</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="ElectricityOutlets README.md">
+      <option name="closed" value="true" />
+      <created>1727263128751</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1727263128751</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +162,7 @@
     <MESSAGE value="Updated README.md" />
     <MESSAGE value="SpiritsAndGnomes completed" />
     <MESSAGE value="ElectricityOutlets completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="ElectricityOutlets completed" />
+    <MESSAGE value="ElectricityOutlets README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="ElectricityOutlets README.md" />
   </component>
 </project>
